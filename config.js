@@ -13,7 +13,7 @@ lolkey = 'Apikey1'
 //━━━━━━━━━━━━━━━[ SETTINGS ]━━━━━━━━━━━━━━━━━//
 global.owner = ['6287734910547','6287734910547','6287734910547','0','6287734910547']
 global.premium = ['6287734910547']
-global.packname = 'Nino-MD'
+global.packname = 'Itsuka-MD'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -33,7 +33,7 @@ global.limitawal = {
     premium: "Infinity",
     free: 500
 }
-global.thumb = fs.readFileSync('./media/kitzuna.jpg')
+global.thumb = fs.readFileSync('./media/itsuki-menu.mp4')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
 
 let file = require.resolve(__filename)
