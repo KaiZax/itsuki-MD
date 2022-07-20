@@ -11,18 +11,18 @@ const chalk = require('chalk')
 //━━━━━━━━━━━━━━━[ APIKEY TERPISAH ]━━━━━━━━━━━━━━━━━//
 lolkey = 'Apikey1'
 //━━━━━━━━━━━━━━━[ SETTINGS ]━━━━━━━━━━━━━━━━━//
-global.owner = ['62895604670507','62895604670507','62895604670507','0','62895604670507']
-global.premium = ['62895604670507']
-global.packname = 'KoboKanaeru-MD'
+global.owner = ['6287734910547','6287734910547','6287734910547','0','6287734910547']
+global.premium = ['6287734910547']
+global.packname = 'Nino-MD'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Ｓｕｃｃｅｓ．．．',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    success: 'Ｓｕｃｃｅｓ C u y．．．',
+    admin: '*Fitur Khusus Admin Group!*',
+    botAdmin: 'Anoo,Bot Harus Menjadi Admin Terlebih Dahulu🗿',
+    owner: 'Fitur Khusus Owner Bot coy',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
@@ -31,7 +31,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 500
 }
 global.thumb = fs.readFileSync('./media/kitzuna.jpg')
 global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
