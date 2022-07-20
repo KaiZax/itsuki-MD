@@ -13,7 +13,7 @@ lolkey = 'Apikey1'
 //━━━━━━━━━━━━━━━[ SETTINGS ]━━━━━━━━━━━━━━━━━//
 global.owner = ['6287734910547','6287734910547','6287734910547','0','6287734910547']
 global.premium = ['6287734910547']
-global.packname = 'Itsuka-MD'
+global.packname = 'Itsuki-MD'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
